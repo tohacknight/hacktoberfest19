@@ -29,7 +29,7 @@ Di seguito alcune idee su contribuzioni interessanti:
 
 ### Esperti
 
-- https://github.com/Homebrew/homebrew-core, se usi macOS puoi aggiungere una formula per brew per qualche programma che manca. Od aggiornarne una che c'è già
+- https://github.com/Homebrew/homebrew-core, se usi macOS puoi aggiungere una formula per brew per qualche programma che manca. O aggiornare una che c'è già
 
 ### Altre opzioni
 

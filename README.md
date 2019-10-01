@@ -25,6 +25,7 @@ Di seguito alcune idee su contribuzioni interessanti:
 ### Intermedie
 
 - https://github.com/coding-gym/snippets/issues/4, se conosci un po' di JavaScript
+- https://github.com/unbit/uwsgi-docs/issues/457 richiede leggere un po' di C
 
 #### Rust
 

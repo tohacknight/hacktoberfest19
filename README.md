@@ -1,6 +1,8 @@
 # Benvenuta/o a questa serata hacktoberfest 19
 
-In questo documento sono raccolti link che possono risultare utili durante la serata. Ti ricordo che lo spirito di Hacktoberfest è quello di fare contribuzioni di qualità.
+Prima di cominciare ricordati di registrarti qua https://hacktoberfest.digitalocean.com/
+
+In questo documento sono raccolti link che possono risultare utili durante la serata. Ti ricordiamo che lo spirito di Hacktoberfest è quello di fare contribuzioni di qualità.
 
 ## Open Source
 

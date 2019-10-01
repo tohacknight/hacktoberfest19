@@ -25,6 +25,7 @@ Di seguito alcune idee su contribuzioni interessanti:
 ### Intermedie
 
 - https://github.com/coding-gym/snippets/issues/4, se conosci un po' di JavaScript
+- https://github.com/xiph/rav1e/issues/1659, se sei già pratico di Rust
 
 ### Esperti
 

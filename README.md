@@ -28,6 +28,7 @@ Di seguito alcune idee su contribuzioni interessanti:
 - https://github.com/coding-gym/snippets/issues/4 se conosci un po' di JavaScript
 - https://github.com/unbit/uwsgi-docs/issues/457 richiede leggere un po' di C
 - https://github.com/strawberry-graphql/strawberry/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3AHacktoberfest per Pythonisti
+- https://github.com/search?q=org%3Aooni+label%3Ahacktoberfest varie ed eventuali da Go a React
  
 #### Rust
 

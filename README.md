@@ -47,5 +47,6 @@ Di seguito alcune idee su contribuzioni interessanti:
 Se non hai già qualche interesse verso un progetto specifico e non hai trovato nessuna idea interessante proposta dagli altri partecipanti puoi cercare ai seguenti link:
 
 - https://up-for-grabs.net/#/, permette di cercare issue su github per label o per linguaggio di programmazione (tramite tags)
+- http://issuehub.io/, come sopra
 - https://github.com/topics, vari progetti e issue su cui lavorare divisi per tema. Tieni a mente che i progetti popolari tendono ad essere complessi :)
 - https://github.com/MunGell/awesome-for-beginners, collezione di progetti divisi per linguaggio di programmazione che hanno issue taggate per nuovi sviluppatori

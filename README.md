@@ -20,22 +20,23 @@ Di seguito alcune idee su contribuzioni interessanti:
 
 ### Prime armi
 
-- https://github.com/coding-gym/snippets/issues/5, ottima come prima PR su github
+- https://github.com/coding-gym/snippets/issues/5 ottima come prima PR su github
+- https://github.com/luyadev/luya/issues/1159 traduzioni in italiano (e altre lingue)
 
 ### Intermedie
 
-- https://github.com/coding-gym/snippets/issues/4, se conosci un po' di JavaScript
+- https://github.com/coding-gym/snippets/issues/4 se conosci un po' di JavaScript
 - https://github.com/unbit/uwsgi-docs/issues/457 richiede leggere un po' di C
 - https://github.com/strawberry-graphql/strawberry/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3AHacktoberfest per Pythonisti
-
+ 
 #### Rust
 
-- https://github.com/xiph/rav1e/issues/1659
-- https://github.com/orgs/rust-av/projects/2 
+- https://github.com/xiph/rav1e/issues/1659 richiede un po' di C e Rust
+- https://github.com/orgs/rust-av/projects/2 una board piena di issue interessanti
 
 ### Esperti
 
-- https://github.com/Homebrew/homebrew-core, se usi macOS puoi aggiungere una formula per brew per qualche programma che manca. O aggiornare una che c'è già
+- https://github.com/Homebrew/homebrew-core se usi macOS puoi aggiungere una formula per brew per qualche programma che manca. O aggiornare una che c'è già
 
 ### Altre opzioni
 

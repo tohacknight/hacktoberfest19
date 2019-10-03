@@ -24,6 +24,7 @@ Di seguito alcune idee su contribuzioni interessanti:
 
 - https://github.com/coding-gym/snippets/issues/5 ottima come prima PR su github
 - https://github.com/luyadev/luya/issues/1159 traduzioni in italiano (e altre lingue)
+- https://github.com/pythonitalia/python-abc miglioriamo insieme la guida per imparare Python, mentre la usiamo!
 
 ### Intermedie
 
@@ -32,6 +33,7 @@ Di seguito alcune idee su contribuzioni interessanti:
 - https://github.com/unbit/uwsgi-docs/issues/457 richiede leggere un po' di C
 - https://github.com/strawberry-graphql/strawberry/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3AHacktoberfest per Pythonisti
 - https://github.com/search?q=org%3Aooni+label%3Ahacktoberfest varie ed eventuali da Go a React
+- https://github.com/matjack1/geobeni/ il [geoblog dei beni confiscati alla mafia in Piemonte](http://geobeni.liberapiemonte.it/) ha bisogno di aiuto
  
 #### Rust
 
@@ -41,6 +43,7 @@ Di seguito alcune idee su contribuzioni interessanti:
 ### Esperti
 
 - https://github.com/Homebrew/homebrew-core se usi macOS puoi aggiungere una formula per brew per qualche programma che manca. O aggiornare una che c'è già
+- https://github.com/freeCodeCamp/freeCodeCamp FreeCodeCamp viene usato da migliaia di persone per imparare a programmare ed è completamente sostenuto dalla community!
 
 ### Altre opzioni
 
@@ -50,3 +53,4 @@ Se non hai già qualche interesse verso un progetto specifico e non hai trovato 
 - http://issuehub.io/, come sopra
 - https://github.com/topics, vari progetti e issue su cui lavorare divisi per tema. Tieni a mente che i progetti popolari tendono ad essere complessi :)
 - https://github.com/MunGell/awesome-for-beginners, collezione di progetti divisi per linguaggio di programmazione che hanno issue taggate per nuovi sviluppatori
+- https://dev.to/t/hacktoberfest discussioni e ispirazioni su Hacktoberfest dalla community di dev.to

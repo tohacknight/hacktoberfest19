@@ -2,6 +2,8 @@
 
 Prima di cominciare ricordati di registrarti qua https://hacktoberfest.digitalocean.com/
 
+Una volta registrato puoi monitorare i tuoi progressi qua https://hacktoberfest.digitalocean.com/profile
+
 In questo documento sono raccolti link che possono risultare utili durante la serata. Ti ricordiamo che lo spirito di Hacktoberfest è quello di fare contribuzioni di qualità.
 
 ## Open Source
@@ -33,7 +35,7 @@ Di seguito alcune idee su contribuzioni interessanti:
 - https://github.com/unbit/uwsgi-docs/issues/457 richiede leggere un po' di C
 - https://github.com/strawberry-graphql/strawberry/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3AHacktoberfest per Pythonisti
 - https://github.com/search?q=org%3Aooni+label%3Ahacktoberfest varie ed eventuali da Go a React
-- https://github.com/matjack1/geobeni/ il [geoblog dei beni confiscati alla mafia in Piemonte](http://geobeni.liberapiemonte.it/) ha bisogno di aiuto
+- https://github.com/matjack1/geobeni/ il [geoblog dei beni confiscati alla mafia in Piemonte](http://geobeni.liberapiemonte.it/) ha bisogno di aiuto con WordPress, PHP, JS
  
 #### Rust
 

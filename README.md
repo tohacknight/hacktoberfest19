@@ -35,6 +35,7 @@ Di seguito alcune idee su contribuzioni interessanti:
 - https://github.com/strawberry-graphql/strawberry/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3AHacktoberfest per Pythonisti
 - https://github.com/search?q=org%3Aooni+label%3Ahacktoberfest varie ed eventuali da Go a React
 - https://github.com/matjack1/geobeni/ il [geoblog dei beni confiscati alla mafia in Piemonte](http://geobeni.liberapiemonte.it/) ha bisogno di aiuto con WordPress, PHP, JS
+- https://github.com/reactjs/it.reactjs.org/issues/1 traduzioni italiane per la documentazione di it.reactjs.org
  
 #### Rust
 

@@ -32,7 +32,6 @@ Di seguito alcune idee su contribuzioni interessanti:
 
 - https://github.com/coding-gym/snippets/issues/4 se conosci un po' di JavaScript
 - https://github.com/patchew-project/patchew/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22 per Pythonisti, è una applicazione Django
-- https://github.com/unbit/uwsgi-docs/issues/457 richiede leggere un po' di C
 - https://github.com/strawberry-graphql/strawberry/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3AHacktoberfest per Pythonisti
 - https://github.com/search?q=org%3Aooni+label%3Ahacktoberfest varie ed eventuali da Go a React
 - https://github.com/matjack1/geobeni/ il [geoblog dei beni confiscati alla mafia in Piemonte](http://geobeni.liberapiemonte.it/) ha bisogno di aiuto con WordPress, PHP, JS

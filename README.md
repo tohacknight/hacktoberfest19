@@ -1,4 +1,4 @@
-# Benvenuta/o a questa serata hacktoberfest 19
+# Benvenuta/o a questa serata hacktoberfest in 19
 
 Prima di cominciare ricordati di registrarti qua https://hacktoberfest.digitalocean.com/
 
